@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DWBI assingment\\Assignment 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7DA3F7-C96B-0EA0-15C6-2AD65F0563D5}|Assignment 2.dwproj|D:\\DWBI assingment\\Assignment 2\\Dim Product Inventory.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{BC7DA3F7-C96B-0EA0-15C6-2AD65F0563D5}|Assignment 2.dwproj|solutionrelative:Dim Product Inventory.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7DA3F7-C96B-0EA0-15C6-2AD65F0563D5}|Assignment 2.dwproj|D:\\DWBI assingment\\Assignment 2\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{BC7DA3F7-C96B-0EA0-15C6-2AD65F0563D5}|Assignment 2.dwproj|solutionrelative:Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7DA3F7-C96B-0EA0-15C6-2AD65F0563D5}|Assignment 2.dwproj|D:\\DWBI assingment\\Assignment 2\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{BC7DA3F7-C96B-0EA0-15C6-2AD65F0563D5}|Assignment 2.dwproj|solutionrelative:Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7DA3F7-C96B-0EA0-15C6-2AD65F0563D5}|Assignment 2.dwproj|D:\\DWBI assingment\\Assignment 2\\DSV_Synthetic_DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{BC7DA3F7-C96B-0EA0-15C6-2AD65F0563D5}|Assignment 2.dwproj|solutionrelative:DSV_Synthetic_DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7DA3F7-C96B-0EA0-15C6-2AD65F0563D5}|Assignment 2.dwproj|D:\\DWBI assingment\\Assignment 2\\Cube_Synthetic.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{BC7DA3F7-C96B-0EA0-15C6-2AD65F0563D5}|Assignment 2.dwproj|solutionrelative:Cube_Synthetic.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "D:\\DWBI assingment\\Assignment 2\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Dim Date.dim",
+              "ToolTip": "D:\\DWBI assingment\\Assignment 2\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-01T21:34:00.959Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DSV_Synthetic_DW.dsv [Design]",
+              "DocumentMoniker": "D:\\DWBI assingment\\Assignment 2\\DSV_Synthetic_DW.dsv",
+              "RelativeDocumentMoniker": "DSV_Synthetic_DW.dsv",
+              "ToolTip": "D:\\DWBI assingment\\Assignment 2\\DSV_Synthetic_DW.dsv [Design]",
+              "RelativeToolTip": "DSV_Synthetic_DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-01T21:27:10.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Product Inventory.dim [Design]",
+              "DocumentMoniker": "D:\\DWBI assingment\\Assignment 2\\Dim Product Inventory.dim",
+              "RelativeDocumentMoniker": "Dim Product Inventory.dim",
+              "ToolTip": "D:\\DWBI assingment\\Assignment 2\\Dim Product Inventory.dim [Design]",
+              "RelativeToolTip": "Dim Product Inventory.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-01T21:38:01.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "D:\\DWBI assingment\\Assignment 2\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Dim Customer.dim",
+              "ToolTip": "D:\\DWBI assingment\\Assignment 2\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-01T21:33:58.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cube_Synthetic.cube [Design]",
+              "DocumentMoniker": "D:\\DWBI assingment\\Assignment 2\\Cube_Synthetic.cube",
+              "RelativeDocumentMoniker": "Cube_Synthetic.cube",
+              "ToolTip": "D:\\DWBI assingment\\Assignment 2\\Cube_Synthetic.cube [Design]",
+              "RelativeToolTip": "Cube_Synthetic.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-01T21:32:57.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
